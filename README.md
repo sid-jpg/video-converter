@@ -11,14 +11,7 @@ A browser-based video converter application that allows users to convert and com
 ### Video Processing
 - **mediabunny** - JavaScript library for video metadata extraction and conversion using WebAssembly
 - **WebAssembly (WASM)** - Enables high-performance video processing in the browser
-
-### Icons
-- **Lucide React** - Beautiful, consistent icon library for React
-
-### Styling
-- **CSS3** - Custom styling with CSS variables, flexbox, and grid layouts
-- **CSS Modules** - Scoped styling approach (though using global CSS in this implementation)
-
+- 
 ## How It Works
 
 ### Architecture Overview
@@ -224,14 +217,10 @@ video-converter-app/
 
 ## Future Improvements
 
-- Add more output formats (AVI, MOV, MKV)
 - Implement batch processing
-- Add video editing features (trim, crop)
 - Support for audio extraction
-- Add subtitle handling
-- Implement Web Workers for better performance
-- Add PWA support for offline usage
 - Cloud storage integration for saving converted videos
+- Add subtitle handling
 
 ## License
 
